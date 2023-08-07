@@ -1,2 +1,2 @@
-# zubairadnan.github.io
-A basic website. My first hands on expereince with HTML and CSS and using github for hosting of the said website.
+# blueorks.github.io
+A basic website. My first hands on experience with HTML, CSS and Github for the hosting of the said website.
